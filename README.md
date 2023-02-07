@@ -11,7 +11,7 @@ This first step consists of:
 - a custom command-line interface for data management,
 - and the base classes for the storage of this data.
 
-## Usage í²»
+## Usage ï¿½ï¿½ï¿½
 
 The console works both in interactive mode and non-interactive mode, much like a Unix shell.
 It prints a prompt **(hbnb)** and waits for the user for input.
@@ -66,21 +66,3 @@ EOF  help  quit
 (hbnb)
 $
 ```
-
-## Testing :straight_ruler:
-
-Unittests for the HolbertonBnB project are defined in the [tests](./tests)
-folder. To run the entire test suite simultaneously, execute the following command:
-
-```
-$ python3 unittest -m discover tests
-```
-
-Alternatively, you can specify a single test file to run at a time:
-
-```
-$ python3 unittest -m tests/test_console.py
-```
-
-
-# Testing ssh
